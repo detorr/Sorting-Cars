@@ -1,6 +1,6 @@
 <html><head><title>Sorting table</title></head>
 <body>
-  <h1>Brandon Reynolds - HW07</h1>
+  <h1> - HW07</h1>
 <?php
   print "We will print in this order: " . $_GET['order'] . "<br />";
   $where =  $_SERVER['PHP_SELF'];
